@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vpalonsog/course-intro-react/static/css/main.c95153da.css",
-    "main.js": "/vpalonsog/course-intro-react/static/js/main.c234f89f.js",
-    "index.html": "/vpalonsog/course-intro-react/index.html",
-    "main.c95153da.css.map": "/vpalonsog/course-intro-react/static/css/main.c95153da.css.map",
-    "main.c234f89f.js.map": "/vpalonsog/course-intro-react/static/js/main.c234f89f.js.map"
+    "main.css": "/course-intro-react/static/css/main.c95153da.css",
+    "main.js": "/course-intro-react/static/js/main.c234f89f.js",
+    "index.html": "/course-intro-react/index.html",
+    "main.c95153da.css.map": "/course-intro-react/static/css/main.c95153da.css.map",
+    "main.c234f89f.js.map": "/course-intro-react/static/js/main.c234f89f.js.map"
   },
   "entrypoints": [
     "static/css/main.c95153da.css",
