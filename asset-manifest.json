@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d9be5ca9.css",
-    "main.js": "/static/js/main.b18452c1.js",
-    "index.html": "/index.html",
-    "static/media/delete.svg": "/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
-    "static/media/edit.svg": "/static/media/edit.569363b1fad8252af1f4f6e04345ba2e.svg",
-    "static/media/check.svg": "/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
-    "main.d9be5ca9.css.map": "/static/css/main.d9be5ca9.css.map",
-    "main.b18452c1.js.map": "/static/js/main.b18452c1.js.map"
+    "main.css": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/css/main.d9be5ca9.css",
+    "main.js": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/js/main.0ce4aa4d.js",
+    "index.html": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/index.html",
+    "static/media/delete.svg": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/edit.svg": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/media/edit.569363b1fad8252af1f4f6e04345ba2e.svg",
+    "static/media/check.svg": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.d9be5ca9.css.map": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/css/main.d9be5ca9.css.map",
+    "main.0ce4aa4d.js.map": "/https//%3Cvpalonsog%3E.github.io/%3Ccourse-intro-react%3E/static/js/main.0ce4aa4d.js.map"
   },
   "entrypoints": [
     "static/css/main.d9be5ca9.css",
-    "static/js/main.b18452c1.js"
+    "static/js/main.0ce4aa4d.js"
   ]
 }
